@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 85
-PDF Page: 123
-Section: Using if statements with lists 
+Textbook Page: 92
+PDF Page: 130
+Section: A Simple Dictionary
