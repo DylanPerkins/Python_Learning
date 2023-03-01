@@ -1,0 +1,3 @@
+The book that I am using for this section of learning is titled
+"Python Crash Course, 2nd Edition: A Hands-On, Project-Based 
+Introduction to Programming 2nd Edition" by Eric Matthes
