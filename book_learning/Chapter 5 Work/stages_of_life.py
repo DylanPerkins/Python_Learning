@@ -10,7 +10,7 @@ elif age >= 13 and age < 20:
     message = "The individual is a teenager."
 elif age >= 20 and age < 65:
     message = "The individual is an adult."
-elif age >= 65:
+else: 
     message = "The individual is an elder."
 
 print(message)
