@@ -1,3 +1,9 @@
 The book that I am using for this section of learning is titled
 "Python Crash Course, 2nd Edition: A Hands-On, Project-Based 
 Introduction to Programming 2nd Edition" by Eric Matthes
+
+Currently on;
+
+Textbook Page: 85
+PDF Page: 123
+Section: Using if statements with lists 
