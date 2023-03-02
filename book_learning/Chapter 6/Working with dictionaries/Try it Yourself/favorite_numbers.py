@@ -16,3 +16,8 @@ print(f"Abe's favorite number is {favorite_numbers['abe']}!")
 
 # I would like to see if I could call the key's name, and not only
 # the value, but I haven't been introduced to that yet if it exists
+
+# I figured it out in the next section, you can use a for loop
+# EX.
+# for name, number in favorite_numbers.items():
+#     print(f"{name.title()}'s favorite number is {number}")
