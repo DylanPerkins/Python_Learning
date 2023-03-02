@@ -10,6 +10,6 @@ print(alien_0)
 # 
 # You would call the dictionary name, like you were calling the value
 # of a current key-value pair, but you will instead set it equal to what
-# you want the vlaue of this new key to be
+# you want the value of this new key to be
 # 
 # Dictionaries retain the order in which key-value pairs were added 

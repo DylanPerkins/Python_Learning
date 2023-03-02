@@ -9,6 +9,6 @@ print(alien_0)
 # 
 # They can then be built up freely
 #
-# "Typically, you’ll use empty dictionaries when storing user-supplied data
+# "Typically, you will use empty dictionaries when storing user-supplied data
 # in a dictionary or when you write code that generates a large number of
 # key-value pairs automatically."
