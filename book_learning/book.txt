@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 99
-PDF Page: 137
-Section: Try it yourself
+Textbook Page: 106
+PDF Page: 144
+Section: Nesting
