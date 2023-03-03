@@ -23,11 +23,11 @@ peoples = {
 }
 
 for person, info in peoples.items():
-    print(f"\n{person}:")
     full_name = f"{info['first_name']} {info['last_name']}"
-    age = f"{info['age']}"
-    cityLiving = f"{info['city']}"
+    age = str(info['age'])
+    cityLiving = info['city']
 
+    print(f"\n{person}:")
     print(f"Full name - {full_name.title()}")
     print(f"They are {age} years old")
     print(f"They currently live in {cityLiving}")
