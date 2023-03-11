@@ -1,0 +1,2 @@
+Course Name: Intro to Coding with Python Turtle
+"Difficulty": Entry Level 
