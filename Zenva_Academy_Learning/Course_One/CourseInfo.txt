@@ -1,2 +1,11 @@
 Course Name: Intro to Coding with Python Turtle
 "Difficulty": Entry Level 
+
+Thoughts upon finish:
+
+This was actually really cool and showed me a library that I did not 
+know existed which allows a user to create digital art using Python!
+
+The course's instructions were really good, and allowed me to quickly understand
+what was going on. I was able to easily complete the final project without
+anything but a deisgn requirment. Although, they do go over it step by step too!
