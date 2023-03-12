@@ -1,0 +1,4 @@
+Course Name: Python Turtle Mini-Projects
+"Difficulty": Beginner
+
+Thoughts upon finish:
