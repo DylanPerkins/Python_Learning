@@ -12,4 +12,6 @@ right(90)
 forward(50)
 
 # Keeps window open after above code has finished running
-done() 
+done()
+
+# Output: A black lined square!
