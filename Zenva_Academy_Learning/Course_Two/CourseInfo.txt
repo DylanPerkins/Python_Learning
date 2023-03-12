@@ -2,3 +2,7 @@ Course Name: Python Turtle Mini-Projects
 "Difficulty": Beginner
 
 Thoughts upon finish:
+
+The inital lessons of the course mainly went over variables, operations,
+conditions, and debugging which I just quickly skipped over since 
+I am profiecient in them already. 
