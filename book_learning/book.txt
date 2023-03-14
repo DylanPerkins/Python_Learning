@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 113
-PDF Page: 151
-Section: Chapter 7
+Textbook Page: 118
+PDF Page: 156
+Section: Chapter 7, introduing while loops
