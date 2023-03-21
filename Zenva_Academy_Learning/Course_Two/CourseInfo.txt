@@ -5,4 +5,5 @@ Thoughts upon finish:
 
 The inital lessons of the course mainly went over variables, operations,
 conditions, and debugging which I just quickly skipped over since 
-I am profiecient in them already. 
+I am profiecient in them already. The final projects went very well, all 
+of them were a lot of fun and helped me learn a lot about functions!
