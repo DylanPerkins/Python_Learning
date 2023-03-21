@@ -1,0 +1,13 @@
+The program will perform 2 main functions:
+
+- Run a new diagnoses and store the results
+- Display a list of previous patients and diagnoses
+
+
+How it will work:
+
+This will be a text-based program that will run within the terminal or
+CMD prompt
+
+- Will display a prompt/questionaire
+- Then, will process the user's text input

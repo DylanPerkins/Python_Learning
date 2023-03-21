@@ -1,4 +1,18 @@
-Course Name: Python Medical Diagnosis Bot
+Course Name: Build a Medical Diagnosis Bot with Python
 "Difficulty": Beginner
 
+Goals:
+- Learn how to design and build an algorithm
+- Build a bot to diagnose levels of dehydration
+
+4 Stages of Project Management:
+- Definition
+- Design
+- Implementation
+- Evaluation
+
 Thoughts upon finish:
+Worked a lot with functions, keeping the idea that a function should mainly
+achieve one thing. This means that we should split up situations where complex
+nested if statements occur. Overall, I really enjoyed this course and it helped
+strengthen my skills with functions!

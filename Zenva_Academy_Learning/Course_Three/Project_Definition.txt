@@ -1,0 +1,12 @@
+We want to diagnose a user's state of dehydration based on a short
+questionaire that we create
+
+- Yes or no type questions
+- Previous responses will determine the next questions
+- Answers will be, severe, some, or no dehydration
+
+
+We want to be able to retrieve and add dehydration diagnoses
+
+- Display a list of patients and diagnoses
+- Store new diagnoses in the list
