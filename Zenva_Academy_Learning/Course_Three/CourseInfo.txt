@@ -1,0 +1,4 @@
+Course Name: Python Medical Diagnosis Bot
+"Difficulty": Beginner
+
+Thoughts upon finish:
