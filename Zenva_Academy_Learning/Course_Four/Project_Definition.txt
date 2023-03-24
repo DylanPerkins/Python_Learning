@@ -1,0 +1,11 @@
+
+We want to build an escape room game in Python
+ - Room contains several objects
+ - Player can interact with objects
+ - Player needs a code to escape
+ - Objects provide clues about the code
+
+Players will need to gather all the clues to get the code and escape the room.
+ - Each item can be looked at, smelled, or touched
+ - Each sense provides new information
+ - Players discern information based on the interations

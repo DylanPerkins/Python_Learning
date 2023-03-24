@@ -1,0 +1,58 @@
+Object Oriented Programming, or OOP
+
+It's a style of programming that uses objects to:
+ - Represent real world things
+ - Encapsulate data and behavior
+ - Execute functions
+
+We store the variables and functions in a class, and then create an instance of that class to use it.
+
+What is a class?
+ - Blueprint of an Object
+ - Build what is on the blueright: "create an instance"
+ - Outline properties and what an object will do 
+
+What is an object?
+ - Instance of a class
+ - What is created from the class
+
+What is a method?
+ - Function that is defined in a class
+ - What an object can do
+
+What are fields?
+ - Variables that are defined in a class
+ - What an object has
+
+What is an attribute?
+ - Variable that is defined in a class
+ - What an object has
+
+What is encapsulation?
+ - Hiding the implementation details of a class from the user
+ - The user only needs to know how to use the class, not how it works
+
+What is inheritance?
+ - A class can inherit the attributes and methods of another class
+ - The child class can add new attributes and methods
+ - The child class can override attributes and methods of the parent class
+
+What is polymorphism?
+ - The ability to use the same method name for different classes
+ - The method will behave differently depending on the class it is called on
+
+What is abstraction?
+ - Hiding the implementation details of a class from the user
+ - The user only needs to know how to use the class, not how it works
+
+What is a constructor?
+ - A special method that is called when an object is created
+ - Used to initialize the attributes of the object
+
+What is a destructor?
+ - A special method that is called when an object is destroyed
+ - Used to clean up the object before it is destroyed
+
+What are fields?
+ - Variables that are defined in a class
+ - What an object has

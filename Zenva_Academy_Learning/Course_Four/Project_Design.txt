@@ -1,0 +1,20 @@
+
+Our game will be entirely text-based
+ - Will be run in the terminal
+ - Print prompts in the console and capture user input
+ - Will run until the player wins or loses
+ - Player will win if they guess the code right
+ - Player will lose if they guess incorrectly 3 times
+
+
+Game Components
+
+We will use 3 objects:
+ - GameObject
+    - Generic object that the user will be able to interact with
+ - Room Object
+    - A room!
+    - Consists of the excape code and a list of game objects (items in the room)
+ - Game
+    - Keeps track of one room
+    - Keeps track of the number of guesses the player has made

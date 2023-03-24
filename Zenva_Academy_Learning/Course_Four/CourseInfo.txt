@@ -1,0 +1,14 @@
+Course Name: Python Projects – Object-Oriented Game
+"Difficulty": Beginner
+
+Goals:
+ - Learn how to use object oriented techniques
+ - Build an escape room game with Python
+
+Through Object Oriented programming we can:
+ - Create objects with states and behaviours
+ - Write organized and abstract code
+ - Use object oriented programming languages
+
+
+Thoughts upon finish:
