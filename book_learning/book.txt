@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 137
-PDF Page: 175
-Section: Return Values
+Textbook Page: 142
+PDF Page: 180
+Section: Try it yourself
