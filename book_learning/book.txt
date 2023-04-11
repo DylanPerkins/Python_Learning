@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 142
-PDF Page: 180
-Section: Try it yourself
+Textbook Page: 143
+PDF Page: 181
+Section: Passing a List
