@@ -1,0 +1,18 @@
+Section: Preventing a Function from Modifying a List
+
+Sometimes, you’ll want to prevent a function from modifying a list.
+
+For example, if you have a list of numbers, and you want to pass it to a function that finds 
+the largest number in the list, you don’t want the function to change the actual list.
+
+You can address this issue by passing the function a copy of the list, not the original. 
+Any changes the function makes to the list will affect only the copy, leaving the original list intact.
+
+You do this like the following;
+function_name(list_name[:])
+
+Note that this is done when calling the function, not in the function definition.
+
+The slice notation [:] makes a copy of the list to send to the function.
+
+You usually want to avoid sending copies to a function, but at times it may be beneficial.

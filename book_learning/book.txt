@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 143
-PDF Page: 181
-Section: Passing a List
+Textbook Page: 147
+PDF Page: 185
+Section: Passing an Arbitrary Number of Arguments
