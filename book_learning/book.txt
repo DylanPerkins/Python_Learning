@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 147
-PDF Page: 185
-Section: Passing an Arbitrary Number of Arguments
+Textbook Page: 150
+PDF Page: 188
+Section: Storing Your Functions in Modules
