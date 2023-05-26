@@ -57,3 +57,47 @@ class Room:
         for game_object in self.game_objects:
             names.append(game_object.name)
         return names
+    
+class Game:
+    # Initializer
+    def __init__(self):
+        self.attempts = 0
+        objects = self.create_object()
+        self.rooms = Room(123, objects)
+
+    def create_object(self):
+        return [
+            GameObject(
+            "Sweater",
+            "A blue sweater with the number 12 on it.",
+            "Soft and warm.",
+            "Like a fresh spring day." 
+            ),
+            GameObject(
+            "Chair",
+            "A wooden chair with a soft cushion.",
+            "Hard and sturdy.",
+            "Smells of old, worn wood."
+            ),
+            GameObject(
+            "Journal",
+            "A leather bound journal with a pen.",
+            "Smooth and cool.",
+            "Smells of fresh ink."
+            ),
+            GameObject(
+            "Bowl of Soup",
+            "A bowl of hot soup.",
+            "Warm and wet.",
+            "Smells of chicken and vegetables."
+            ),
+            GameObject(
+            "Clock",
+            "A grandfather clock.",
+            "Hard and smooth.",
+            "Smells of old wood and metal."
+            )
+        ]
+    
+
+    
