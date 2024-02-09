@@ -33,3 +33,17 @@ print(f"We serve {my_restaurant.cuisine_type} at my restaurant.\n")
 
 my_restaurant.describe_restaurant()
 my_restaurant.open_restaurant()
+
+### Try it Yourself: 9-2
+
+# Task: Start with your class from Exercise 9-1. Create three different instances
+#  from the class, and call describe_restaurant() for each instance.
+
+print("\n")
+restaurant_one = Restaurant("First Class Bread", "Sandwiches")
+restaurant_two = Restaurant("Best in Class Fish", "Seafood")
+restaurant_three = Restaurant("World Class Sushi", "Sushi")
+
+restaurant_one.describe_restaurant()
+restaurant_two.describe_restaurant()
+restaurant_three.describe_restaurant()
