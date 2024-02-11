@@ -26,7 +26,7 @@ class Users:
         print(f"Hello {self.first_name} {self.last_name}! How are you?")
 
 
-user_one = Users("George", "Barkly", "USA", "Scientist")
+user_one = Users("George", "Barkley", "USA", "Scientist")
 user_two = Users("Mark", "Waters", "Mexico", "Doctor")
 user_three = Users("Jeff", "Fox", "Canada", "Janitor")
 user_four = Users("Sarah", "Walters", "France", "Pilot")
