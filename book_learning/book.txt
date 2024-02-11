@@ -1,9 +1,9 @@
 The book that I am using for this section of learning is titled
-"Python Crash Course, 2nd Edition: A Hands-On, Project-Based 
+"Python Crash Course, 2nd Edition: A Hands-On, Project-Based
 Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 150
-PDF Page: 188
-Section: Storing Your Functions in Modules
+Textbook Page: 162
+PDF Page: 200
+Section: Working with Classes and Instances
