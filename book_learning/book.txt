@@ -4,6 +4,6 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 174
-PDF Page: 212
-Section: Importing Classes (Start)
+Textbook Page: 183
+PDF Page: 221
+Section: Chapter 10: Files and Exceptions (Start)
