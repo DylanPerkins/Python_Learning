@@ -4,6 +4,12 @@ Introduction to Programming 2nd Edition" by Eric Matthes
 
 Currently on;
 
-Textbook Page: 183
-PDF Page: 221
-Section: Chapter 10: Files and Exceptions (Start)
+Textbook Page: 191
+PDF Page: 229
+Section: Try it Yourself
+
+Source Code for the book can be found at:
+https://github.com/ehmatthes/pcc_2e/
+
+Other info for the book:
+https://ehmatthes.github.io/pcc_2e/regular_index/
