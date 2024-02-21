@@ -1,0 +1,10 @@
+In Python you can write simple and clean code.
+In Python you can perform mathematical calculations.
+In Python you can manipulate strings easily.
+In Python you can work with lists, tuples, and dictionaries.
+In Python you can create and use functions.
+In Python you can handle errors and exceptions.
+In Python you can read and write files.
+In Python you can work with dates and times.
+In Python you can interact with databases.
+In Python you can build web applications.
