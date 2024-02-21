@@ -6,7 +6,7 @@ Currently on;
 
 Textbook Page: 191
 PDF Page: 229
-Section: Try it Yourself
+Section: Writing to a File (Start)
 
 Source Code for the book can be found at:
 https://github.com/ehmatthes/pcc_2e/
